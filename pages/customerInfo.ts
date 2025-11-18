@@ -5,7 +5,7 @@ export class CustomerInfo {
 
     listOfItems = "[data-test='inventory-item']";
     checkout = "#checkout";
-    firstName = "First Name";
+    firstName = "First Name";               //for placholder locators
     lastName = "Last Name";
     zipcode = "Zip/Postal Code";
     continue = "#continue";
